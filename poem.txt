@@ -1,1 +1,2 @@
 roses are red
+Fruits are different colors
